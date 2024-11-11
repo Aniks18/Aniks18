@@ -1,24 +1,31 @@
 ### 👋 Hi, I’m Aniket
 
-I'm a versatile developer with a range of skills across both front-end and back-end technologies, along with experience in creating AI models from scratch.
+I'm a versatile developer skilled in both front-end and back-end technologies, with hands-on experience in building custom AI models and data-driven applications. I'm passionate about creating seamless, interactive user experiences and am always exploring new ways to integrate AI with web development.
 
 ### 👀 I’m interested in ...
 - Full-stack development, from design to deployment
-- Building intuitive, data-driven UIs and interactive applications
-- Experimenting with AI, especially through creating and training custom models
+- Building engaging, data-driven interfaces and applications
+- Experimenting with AI and creating custom-trained models
 
 ### 🌱 I’m currently learning ...
 - Advanced data visualization techniques for web applications
-- Improving the efficiency of full-stack applications and optimizing performance
-- Exploring new ways to implement machine learning in web-based tools
+- Optimizing full-stack application performance
+- Exploring machine learning integration in web-based tools
 
 ### 💞️ I’m looking to collaborate on ...
-- Full-stack projects that incorporate real-time data and API integrations
-- Projects requiring creative UI/UX solutions combined with a robust backend
-- AI or data-driven applications, particularly those needing custom model training
+- Full-stack projects involving real-time data and API integrations
+- Innovative UI/UX solutions with strong backend support
+- AI or data-driven applications, particularly those requiring custom model training
 
 ### 📫 How to reach me ...
-Feel free to connect with me here on GitHub or via LinkedIn.
+- **LinkedIn**: [Aniket Kumar] "(https://www.linkedin.com/in/aniket-kumar-58a10b292/)"
+- **Instagram**: [@niks_lnn18] "(https://www.instagram.com/niks_lnn18?igshid=anpid3NnNGp6bjM2)"
+
+### 💼 Freelancing:
+I'm open to freelance projects, particularly in AI/ML and full-stack development. If you have a project in mind, feel free to reach out!
+
+### 🏆 Achievement:
+- Won 1st place at a national-level, 24-hour hackathon, showcasing my ability to deliver high-quality solutions under tight deadlines.
 
 ### ⚡ Fun fact:
-I love creating custom models and seeing the potential of AI through projects built from the ground up, bringing together data, design, and functionality.
+I enjoy building custom models from scratch and exploring the potential of AI through projects that combine data, design, and functionality.
