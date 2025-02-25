@@ -1,7 +1,7 @@
 # Hello, I'm Aniket Kumar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Full-Stack+Developer;Data+Scientist;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Software+Developer;Coding+Enthusiast;Tech+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,12 +9,11 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aniket-kumar-58a10b292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:ak7525@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/niks_lnn18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
@@ -29,14 +28,14 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm learning **[Technologies You're Learning]**
+- 🔭 I'm currently working on **improving my coding skills**
+- 🌱 I'm learning **new technologies and frameworks**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 🥅 2025 Goals: **[Your Goals]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 💬 Ask me about **programming and tech**
+- 🥅 2025 Goals: **Contribute more to Open Source projects**
+- ⚡ Fun fact: **I love exploring new technologies**
 - 📧 Reach me at: **ak7525@srmist.edu.in**
 
 <div align="center">
@@ -59,7 +58,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -81,30 +79,6 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="200px"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="40"> Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -146,9 +120,8 @@
   <p><b>Thank you for visiting my profile! Let's connect and create something amazing together!</b></p>
   <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
   <br>
-  <a href="https://github.com/Aniks18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/aniket-kumar-58a10b292"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
   <a href="https://www.instagram.com/niks_lnn18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   <a href="mailto:ak7525@srmist.edu.in"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </div>
