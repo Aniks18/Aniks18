@@ -61,7 +61,7 @@
 🌐 **Portfolio**: [Coming Soon! 🚀]  
 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/)  
 📜 **GitHub**: [github.com/YourUsername](https://github.com/)  
-📧 **Email**: your.email@example.com  
+📧 **Email**: ak7525@srmist.edu.in  
 
 ![Wave](https://media.giphy.com/media/l3vRnGzdyXch7N5gE/giphy.gif)
 
