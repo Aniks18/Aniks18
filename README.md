@@ -1,62 +1,85 @@
-# Hi there! I'm [Your Name] 🚀
+# 🚀 Welcome to My Digital Garage!  
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-## 🌟 About Me
-
-I'm a passionate **developer, AI enthusiast, and tech explorer**! I love building **intelligent systems, sleek dashboards, and dynamic web applications**. 
-
-## ⚡ Tech Stack
-
-🎨 **Frontend**: React, Tailwind CSS, HTML, CSS  
-🛠 **Backend**: Node.js, Flask, Express  
-📊 **AI/ML**: TensorFlow, Scikit-Learn, Keras  
-🌍 **APIs & Tools**: News API, Gemini API, OpenAI, Google Cloud  
-📂 **Databases**: MongoDB, Firebase, PostgreSQL  
-
-## 🚀 Featured Projects
-
-### 🔥 UDDHRTI AI Dashboard
-A **real-time AI-powered dashboard** integrating news insights, disaster analytics, and live updates.
-
-![Dashboard GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
-
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
-### 🎯 Election Incident Prediction (ML Model)
-Building a **high-accuracy model** to predict election-related incidents with deep learning.
-
-🔗 [GitHub Repo](#)
-
-### 🏆 International Mathematics Conference Website
-A **sleek and professional conference site** with parallax effects, animations, and a stylish UI.
-
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
-## 📊 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-## 🎮 Dashboard & Interaction Zone
-
-### 🚘 **Live Data Dashboard**
-Inspired by **futuristic speedometers and tech interfaces**:
-
-![Dashboard Animation](https://media.giphy.com/media/l3vR4vJgnNCd1rMHG/giphy.gif)
-
-🔹 **Real-time API Integration**  
-🔹 **Interactive Visuals & Analytics**  
-🔹 **Dynamic UI with Glassmorphism Effects**  
+```plaintext
+      ____  _        _        __      _       _    
+     |  _ \| |_   _ | |_ ___  \ \    (_) __ _| | __
+     | |_) | | | | || __/ _ \  \ \   | |/ _` | |/ /
+     |  _ <| | |_| || ||  __/   \ \  | | (_| |   < 
+     |_| \_\_|\__,_| \__\___|    \_\ |_|\__,_|_|\_\
+```
 
 ---
 
-## 🔗 Connect With Me
+## 🏎️ Speedometer Dashboard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+AI+Explorer+%7C+Blockchain+Enthusiast" />
+</p>
 
-✨ **Always open to collaboration & innovative ideas!** ✨
+🚀 Passionate about **Web Development, AI, Blockchain, and Data Visualization**!  
+🛠️ **Tech Stack:** Next.js, React, Spring Boot, MySQL, Python, and more!  
+🧠 **Currently Learning:** Blockchain, AI APIs, and innovative UI/UX integrations.  
+
+---
+
+## 🎨 GitHub Particles Playground
+
+![GitHub Particles](https://github.com/Aniks18/github-particles/blob/main/animation.svg)
+
+---
+
+## 📊 GitHub Dashboard
+
+### 📈 Stats
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniks18&show_icons=true&theme=radical)
+
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aniks18&theme=dark)
+
+### 📅 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aniks18&theme=github)
+
+---
+
+## 🚀 Featured Projects
+
+| 🚀 Project | 📌 Description |
+|-----------|-------------|
+| [🌟 CodeHub](https://github.com/Aniks18/codehub) | AI-powered code-sharing platform |
+| [🌍 GeoGuessr Clone](https://github.com/Aniks18/GeoGame) | A location-based guessing game |
+| [🏫 School Management](https://github.com/Aniks18/SchoolSys) | Full-stack React & Spring Boot project |
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Aniks18"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aniketk18/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 🏁 Fun Element - Spinning Penguin!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TILsmgZrtI7ZKsDAxJ/giphy.gif" width="150px">
+</p>
+
+---
+
+## 🏍️ Ride Into the Future!
+
+```plaintext
+      _____      _       _              
+     |  __ \    (_)     | |             
+     | |__) | __ _ _ __ | |_ ___  _ __  
+     |  ___/ '__| | '_ \| __/ _ \| '_ \ 
+     | |   | |  | | | | | || (_) | |_) |
+     |_|   |_|  |_|_| |_|\__\___/| .__/ 
+                                 | |    
+                                 |_|    
+```
+
+*"Technology is like a bike ride—sometimes fast, sometimes bumpy, but always an adventure!"*
 
