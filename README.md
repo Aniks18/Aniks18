@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=AniketKumar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter">
 </div>
 
 <div align="center">
@@ -69,16 +69,16 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200px"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AniketKumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketKumar&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="200px"/>
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AniketKumar&theme=tokyonight&hide_border=true" height="200px"/>
   </a>
 </div>
 
@@ -89,7 +89,7 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketKumar&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 <div align="center">
@@ -99,14 +99,15 @@
 ## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"> Coding Time
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AniketKumar&theme=tokyonight&hide_border=true" />
 </div>
 
 ```text
-🌞 Morning   █████▒░░░░░░░░   25.0%
-🌆 Daytime   ███████████░░░   68.3%
+🌞 Morning   ░░░░░░░░░░░░░░   01.5%
+🌆 Daytime   █████▒░░░░░░░░   25.0%
 🌃 Evening   █░░░░░░░░░░░░░   05.2%
-🌙 Night     ░░░░░░░░░░░░░░   01.5%
+🌙 Night     ███████████░░░   68.3%
+
 ```
 
 <div align="center">
@@ -120,7 +121,7 @@
   <p><b>Thank you for visiting my profile! Let's connect and create something amazing together!</b></p>
   <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
   <br>
-  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://github.com/AniketKumar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/aniket-kumar-58a10b292"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/niks_lnn18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   <a href="mailto:ak7525@srmist.edu.in"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
