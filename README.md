@@ -1,7 +1,3 @@
-YO!!!
-https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif
-
-
 ### 👋 Hi, I’m Aniket
 
 I'm a versatile developer skilled in both front-end and back-end technologies, with hands-on experience in building custom AI models and data-driven applications. I'm passionate about creating seamless, interactive user experiences and am always exploring new ways to integrate AI with web development.
@@ -24,6 +20,17 @@ I'm a versatile developer skilled in both front-end and back-end technologies, w
 ### 📫 How to reach me ...
 - **LinkedIn**: [Aniket Kumar] "(https://www.linkedin.com/in/aniket-kumar-58a10b292/)"
 - **Instagram**: [@niks_lnn18] "(https://www.instagram.com/niks_lnn18?igshid=anpid3NnNGp6bjM2)"
+
+- <div align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="150px" style="animation: spin 2s linear infinite;">
+  <style>
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</div>
+
 
 ### 💼 Freelancing:
 I'm open to freelance projects, particularly in AI/ML and full-stack development. If you have a project in mind, feel free to reach out!
