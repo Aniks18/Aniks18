@@ -22,7 +22,7 @@ I'm a versatile developer skilled in both front-end and back-end technologies, w
 - **Instagram**: [@niks_lnn18] "(https://www.instagram.com/niks_lnn18?igshid=anpid3NnNGp6bjM2)"
 
 - <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="150px" style="animation: spin 2s linear infinite;">
+  <img src="[https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV4eWtoYnkxNjM3Y29ldWdpdHVsN3hwMGxmcjRmaWVnazc4MGJlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif)" >
   <style>
     @keyframes spin {
       0% { transform: rotate(0deg); }
