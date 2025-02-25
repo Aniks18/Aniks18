@@ -1,70 +1,93 @@
-![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+# Hello, I'm [Your Name] 👋
 
-# 🚀 Welcome to My Digital Universe! 🌌
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
 
-## Hi there, I'm **Anida**! 👋✨
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
+</div>
 
-🔹 AI Enthusiast | 🌍 Tech Explorer | 📊 Data Whisperer | 🎨 Creative Coder  
-🔹 Bridging **AI, Data, and Innovation** to build the future!  
-🔹 Passionate about **React Dashboards, ML Models, Web Design, and Automation**.  
+## About Me ✨
+
+I'm a [Your Role] passionate about [Your Interests]. I love building [Types of Projects] and exploring new technologies.
+
+- 🔭 I'm currently working on [Current Project]
+- 🌱 I'm currently learning [What You're Learning]
+- 👯 I'm looking to collaborate on [Interesting Areas]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Something Interesting About You]
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="/api/placeholder/500/200" alt="Your tech stack visualization" />
+</div>
+
+```javascript
+const skills = {
+  languages: ["JavaScript", "Python", "Java", "TypeScript"],
+  frameworks: ["React", "Node.js", "Express", "Django"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL"],
+  tools: ["Git", "Docker", "AWS", "VS Code"],
+  practices: ["Agile", "CI/CD", "TDD", "Clean Code"]
+};
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</div>
+
+## 🏆 Projects
+
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
+  </a>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="/api/placeholder/800/200" alt="Your contribution graph" />
+</div>
+
+## 🎯 Weekly Development Breakdown
+
+```text
+JavaScript   █████████████▓░░░░░░   65.35 %
+Python       ██████▒░░░░░░░░░░░░░   25.47 %
+HTML/CSS     ██▒░░░░░░░░░░░░░░░░░   07.18 %
+Other        ▒░░░░░░░░░░░░░░░░░░░   02.00 %
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yourinstagram/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🔥 **What I Do?**
-
-- 🚀 **Building AI-Powered Dashboards** (React, Python, APIs)
-- 🤖 **Machine Learning & NLP** (Election Incident Prediction, Medical AI)
-- 🎨 **Creative Web Development** (Parallax, Animations, Interactive UI)
-- 📰 **News & Disaster Analysis** (NewsData.io, APIs, JSON Processing)
-- 📡 **Real-Time Data Processing & Automation** (Push Notifications, Email Alerts)
-
----
-
-## 💻 **Tech Stack & Tools**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-🛠️ **Other Tools:** VS Code, GitHub Actions, APIs (News, Gemini AI), Pandas, NumPy, Matplotlib
-
----
-
-## 🌍 **Current Projects & Focus Areas**
-
-🚧 **Ongoing:**
-- 🔬 **Election Incident Prediction Model** (Machine Learning & AI)
-- 📰 **AI-Driven News Dashboard** (React + Python + API Integrations)
-- 🎭 **International Mathematics Conference Website** (Next.js + Parallax Effects)
-- 📡 **Real-Time Push Notification System** (Automated Alerts via Email & Web)
-
-🎯 **Future Goals:**
-- 📈 **AI for Healthcare** (Symptom-based Disease Prediction & Ayurvedic Medicine Recommendation)
-- 🤝 **Open Source Contributions** (AI & Web Dev Communities)
-- 🔥 **Expanding ML & Automation** into more real-world applications
-
----
-
-## 🎮 **Fun Fact About Me**
-
-🎨 I love blending **Tech & Creativity**—whether it's building smart dashboards, designing futuristic UI, or coding innovative AI models. If there's a challenge, I'm **all in!** 😎🚀
-
-![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-
----
-
-## 🌟 **Connect with Me!**
-
-🌐 **Portfolio**: [Coming Soon! 🚀]  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/)  
-📜 **GitHub**: [github.com/YourUsername](https://github.com/)  
-📧 **Email**: ak7525@srmist.edu.in  
-
-![Wave](https://media.giphy.com/media/l3vRnGzdyXch7N5gE/giphy.gif)
-
----
-
-🌟 **Let's build the future together!** 🚀🔥
+<div align="center">
+  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHW/giphy.gif" width="200" />
+  <p><i>Thanks for visiting my profile! Have a nice day!</i></p>
+</div>
