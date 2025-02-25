@@ -1,3 +1,7 @@
+YO!!!
+https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif
+
+
 ### 👋 Hi, I’m Aniket
 
 I'm a versatile developer skilled in both front-end and back-end technologies, with hands-on experience in building custom AI models and data-driven applications. I'm passionate about creating seamless, interactive user experiences and am always exploring new ways to integrate AI with web development.
