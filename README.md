@@ -1,100 +1,70 @@
-# 🚀 Welcome to My Digital Garage!  
+![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-```plaintext
-      ____  _        _        __      _       _    
-     |  _ \| |_   _ | |_ ___  \ \    (_) __ _| | __
-     | |_) | | | | || __/ _ \  \ \   | |/ _` | |/ /
-     |  _ <| | |_| || ||  __/   \ \  | | (_| |   < 
-     |_| \_\_|\__,_| \__\___|    \_\ |_|\__,_|_|\_\
-```
+# 🚀 Welcome to My Digital Universe! 🌌
 
----
+## Hi there, I'm **Anida**! 👋✨
 
-## 🏎️ Speedometer Dashboard  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+AI+Explorer+%7C+Blockchain+Enthusiast" />
-</p>  
-
-🚀 Passionate about **Web Development, AI, Blockchain, and Data Visualization**!  
-🛠️ **Tech Stack:** Next.js, React, Spring Boot, MySQL, Python, and more!  
-🧠 **Currently Learning:** Blockchain, AI APIs, and innovative UI/UX integrations.  
+🔹 AI Enthusiast | 🌍 Tech Explorer | 📊 Data Whisperer | 🎨 Creative Coder  
+🔹 Bridging **AI, Data, and Innovation** to build the future!  
+🔹 Passionate about **React Dashboards, ML Models, Web Design, and Automation**.  
 
 ---
 
-## 🔥 Motorcycle Dashboard  
+## 🔥 **What I Do?**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="250px">
-</p>  
-
-🔥 **Speed: 220 km/h**  
-🔧 **Gear: Full Throttle**  
-⚡ **Fuel: Infinite Passion**  
+- 🚀 **Building AI-Powered Dashboards** (React, Python, APIs)
+- 🤖 **Machine Learning & NLP** (Election Incident Prediction, Medical AI)
+- 🎨 **Creative Web Development** (Parallax, Animations, Interactive UI)
+- 📰 **News & Disaster Analysis** (NewsData.io, APIs, JSON Processing)
+- 📡 **Real-Time Data Processing & Automation** (Push Notifications, Email Alerts)
 
 ---
 
-## 🎨 GitHub Particles Playground  
+## 💻 **Tech Stack & Tools**
 
-![GitHub Particles](https://github.com/Aniks18/github-particles/blob/main/animation.svg)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📊 GitHub Dashboard  
-
-### 📈 Stats  
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniks18&show_icons=true&theme=radical)  
-
-### 🔥 Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aniks18&theme=dark)  
-
-### 📅 Contribution Graph  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aniks18&theme=github)  
+🛠️ **Other Tools:** VS Code, GitHub Actions, APIs (News, Gemini AI), Pandas, NumPy, Matplotlib
 
 ---
 
-## 🚀 Featured Projects  
+## 🌍 **Current Projects & Focus Areas**
 
-| 🚀 Project | 📌 Description |
-|-----------|-------------|
-| [🌟 CodeHub](https://github.com/Aniks18/codehub) | AI-powered code-sharing platform |
-| [🌍 GeoGuessr Clone](https://github.com/Aniks18/GeoGame) | A location-based guessing game |
-| [🏫 School Management](https://github.com/Aniks18/SchoolSys) | Full-stack React & Spring Boot project |
+🚧 **Ongoing:**
+- 🔬 **Election Incident Prediction Model** (Machine Learning & AI)
+- 📰 **AI-Driven News Dashboard** (React + Python + API Integrations)
+- 🎭 **International Mathematics Conference Website** (Next.js + Parallax Effects)
+- 📡 **Real-Time Push Notification System** (Automated Alerts via Email & Web)
 
----
-
-## 📬 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/Aniks18"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aniketk18/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>  
+🎯 **Future Goals:**
+- 📈 **AI for Healthcare** (Symptom-based Disease Prediction & Ayurvedic Medicine Recommendation)
+- 🤝 **Open Source Contributions** (AI & Web Dev Communities)
+- 🔥 **Expanding ML & Automation** into more real-world applications
 
 ---
 
-## 🏁 Fun Element - Spinning Penguin!  
+## 🎮 **Fun Fact About Me**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TILsmgZrtI7ZKsDAxJ/giphy.gif" width="150px">
-</p>  
+🎨 I love blending **Tech & Creativity**—whether it's building smart dashboards, designing futuristic UI, or coding innovative AI models. If there's a challenge, I'm **all in!** 😎🚀
 
----
-
-## 🏍️ Ride Into the Future!  
-
-```plaintext
-      _____      _       _              
-     |  __ \    (_)     | |             
-     | |__) | __ _ _ __ | |_ ___  _ __  
-     |  ___/ '__| | '_ \| __/ _ \| '_ \ 
-     | |   | |  | | | | | || (_) | |_) |
-     |_|   |_|  |_|_| |_|\__\___/| .__/ 
-                                 | |    
-                                 |_|    
-```
-
-*"Technology is like a bike ride—sometimes fast, sometimes bumpy, but always an adventure!"*  
+![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ---
 
-### **🔥 Enjoy your new README! Let me know if you want even more effects! 🚀🔥🏍️**
+## 🌟 **Connect with Me!**
+
+🌐 **Portfolio**: [Coming Soon! 🚀]  
+💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/)  
+📜 **GitHub**: [github.com/YourUsername](https://github.com/)  
+📧 **Email**: your.email@example.com  
+
+![Wave](https://media.giphy.com/media/l3vRnGzdyXch7N5gE/giphy.gif)
+
+---
+
+🌟 **Let's build the future together!** 🚀🔥
