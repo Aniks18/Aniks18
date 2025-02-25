@@ -1,42 +1,80 @@
-### 👋 Hi, I’m Aniket
+## Hi there, I'm Aniket Kumar! 🌟
 
-I'm a versatile developer skilled in both front-end and back-end technologies, with hands-on experience in building custom AI models and data-driven applications. I'm passionate about creating seamless, interactive user experiences and am always exploring new ways to integrate AI with web development.
+```plaintext
+      ____  _        _        __      _       _    
+     |  _ \| |_   _ | |_ ___  \ \    (_) __ _| | __
+     | |_) | | | | || __/ _ \  \ \   | |/ _` | |/ /
+     |  _ <| | |_| || ||  __/   \ \  | | (_| |   < 
+     |_| \_\_|\__,_| \__\___|    \_\ |_|\__,_|_|\_\ 
+```
 
-### 👀 I’m interested in ...
-- Full-stack development, from design to deployment
-- Building engaging, data-driven interfaces and applications
-- Experimenting with AI and creating custom-trained models
+### 🌟 About Me:
+I'm a **full-stack developer** passionate about building **AI-powered applications, seamless web experiences, and innovative projects**. I love to explore **blockchain, data visualization, and creative UI/UX**. 
 
-### 🌱 I’m currently learning ...
-- Advanced data visualization techniques for web applications
-- Optimizing full-stack application performance
-- Exploring machine learning integration in web-based tools
+- 🌍 Based in **India**
+- 🧠 Learning **Blockchain & AI integrations**
+- 🚀 Building innovative **Next.js & React** projects
+- 🎶 Fun fact: I love music and exploring tech communities!
 
-### 💞️ I’m looking to collaborate on ...
-- Full-stack projects involving real-time data and API integrations
-- Innovative UI/UX solutions with strong backend support
-- AI or data-driven applications, particularly those requiring custom model training
+---
 
-### 📫 How to reach me ...
-- **LinkedIn**: [Aniket Kumar] "(https://www.linkedin.com/in/aniket-kumar-58a10b292/)"
-- **Instagram**: [@niks_lnn18] "(https://www.instagram.com/niks_lnn18?igshid=anpid3NnNGp6bjM2)"
+## 📈 My Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-- <div align="center">
-  <img src="[https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV4eWtoYnkxNjM3Y29ldWdpdHVsN3hwMGxmcjRmaWVnazc4MGJlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif)" >
-  <style>
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-  </style>
-</div>
+---
 
+## 🔥 GitHub Dashboard
+![Metrics](https://github.com/Aniks18/Aniks18/blob/main/github-metrics.svg)
 
-### 💼 Freelancing:
-I'm open to freelance projects, particularly in AI/ML and full-stack development. If you have a project in mind, feel free to reach out!
+### 🔢 GitHub Stats
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniks18&show_icons=true&theme=radical)
 
-### 🏆 Achievement:
-- Won 1st place at a national-level, 24-hour hackathon, showcasing my ability to deliver high-quality solutions under tight deadlines.
+### 🎨 GitHub Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniks18&theme=radical)
 
-### ⚡ Fun fact:
-I enjoy building custom models from scratch and exploring the potential of AI through projects that combine data, design, and functionality.
+### 📅 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniks18&theme=dracula)
+
+---
+
+## 🎉 Featured Projects:
+| Project | Description |
+|---------|------------|
+| [🎨 CodeHub](https://github.com/Aniks18/codehub) | AI-powered code-sharing platform |
+| [🌍 GeoGuessr Clone](https://github.com/Aniks18/GeoGame) | A location-based guessing game |
+| [👩‍🏫 School Management System](https://github.com/Aniks18/SchoolSys) | Full-stack React & Spring Boot project |
+
+---
+
+## 📱 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniket-kumar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniket_dev)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniks18)
+
+---
+
+## 🛵 Fun Element - Spinning Penguin!
+```html
+<img src="https://media.giphy.com/media/TILsmgZrtI7ZKsDAxJ/giphy.gif" width="150px">
+```
+
+---
+
+## 🚗 Let's Ride Into the Future Together! 
+```plaintext
+      _____      _       _              
+     |  __ \    (_)     | |             
+     | |__) | __ _ _ __ | |_ ___  _ __  
+     |  ___/ '__| | '_ \| __/ _ \| '_ \ 
+     | |   | |  | | | | | || (_) | |_) |
+     |_|   |_|  |_|_| |_|\__\___/| .__/ 
+                                 | |    
+                                 |_|    
+```
+
+_"Technology is like a bike ride—sometimes fast, sometimes bumpy, but always an adventure!"_
