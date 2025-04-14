@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Pac-Man animation" />
+  <img src="https://media2.giphy.com/media/QB4R8wCQ4jkFq/giphy.gif" alt="Pac-Man animation" width="600" />
 </div>
 
 <p align="center">
