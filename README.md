@@ -1,31 +1,31 @@
-# <img src="https://media.giphy.com/media/lcjWzvc9po5Og6eV4V/giphy.gif" width="30"> Hello, I'm Aniket Kumar
+# <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif" width="30"> Hello, I'm Aniket Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=32&duration=2500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Vault;Software+Developer;3rd+CSE+CORE+B;Vice+President+-+DNS;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2500&pause=800&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Vault;Software+Developer;3rd+CSE+CORE+B;Vice+President+-+DNS;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Pac-Man animation" />
 </div>
 
 <p align="center">
-  <a href="https://theaniket.tech"><img src="https://img.shields.io/badge/Website-theaniket.tech-00FF00?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/Aniks18"><img src="https://img.shields.io/badge/GitHub-Aniks18-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:ak7525@srmist.edu.in"><img src="https://img.shields.io/badge/Email-ak7525@srmist.edu.in-00FF00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://theaniket.tech"><img src="https://img.shields.io/badge/Website-theaniket.tech-00FFFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/Aniks18"><img src="https://img.shields.io/badge/GitHub-Aniks18-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:ak7525@srmist.edu.in"><img src="https://img.shields.io/badge/Email-ak7525@srmist.edu.in-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aniks18&color=00FF00&style=flat-square&label=Visitors" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Aniks18&color=00FFFF&style=flat-square&label=Visitors" alt="Profile Views">
 </div>
 
-<!-- Matrix-style divider -->
+<!-- Retro-style divider -->
 <div align="center">
-  <pre style="color:#00FF00;font-family:'Courier New'">01001101 01100001 01110100 01110010 01101001 01111000</pre>
+  <pre style="color:#00FFFF;font-family:'Press Start 2P'">====== PLAYER 1 READY ======</pre>
 </div>
 
-## <img src="https://media.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="30"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
 
-<img align="right" height="240px" alt="Coding GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" height="240px" alt="Coding GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
 - 🎓 3rd Year CSE CORE B student
 - 🏢 Vice President of DNS
@@ -38,12 +38,12 @@
 - 🧠 Teaching experience with TypeScript and project development
 - 📊 Experience in API creation and implementation
 
-<!-- Matrix-style divider -->
+<!-- Retro-style divider -->
 <div align="center">
-  <pre style="color:#00FF00;font-family:'Courier New'">01010100 01100101 01100011 01101000</pre>
+  <pre style="color:#00FFFF;font-family:'Press Start 2P'">====== HIGH SCORE ======</pre>
 </div>
 
-## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="25"> Technical Stack
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="25"> Technical Stack
 
 <div align="center">
   <table>
@@ -88,14 +88,14 @@
   </table>
 </div>
 
-<!-- Matrix-style divider -->
+<!-- Retro-style divider -->
 <div align="center">
-  <pre style="color:#00FF00;font-family:'Courier New'">01000001 01100011 01101000 01101001 01100101 01110110 01100101 01101101 01100101 01101110 01110100 01110011</pre>
+  <pre style="color:#00FFFF;font-family:'Press Start 2P'">====== ACHIEVEMENT UNLOCKED ======</pre>
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Achievements
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY4ZDg1MmMyM2M5MmY5NzI2Yjk2YzYxYWEzYmEwYTdmODc2NGFmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uhWLu2lsU0rfLiwYlI/giphy.gif" width="30"> Achievements
 
-<img align="right" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Trophy" />
+<img align="right" width="300" src="https://media4.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" alt="Trophy" />
 
 - 🥇 Won 1st prize at St. Joseph's Institute Of Science and Technology under CSI Kanchipuram Chapter
 - 🥇 Won 1st prize at Madras Institute of Science and Technology
@@ -108,12 +108,12 @@
 - 📜 Currently working on 2 patents (yet to be claimed)
 - 👶 Experience in teaching kids in schools & college students
 
-<!-- Matrix-style divider -->
+<!-- Retro-style divider -->
 <div align="center">
-  <pre style="color:#00FF00;font-family:'Courier New'">01010000 01110010 01101111 01101010 01100101 01100011 01110100 01110011</pre>
+  <pre style="color:#00FFFF;font-family:'Press Start 2P'">====== SELECT PROJECTS ======</pre>
 </div>
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> Notable Projects
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc2ODE0NjFmZmJjNDRmMDNlNDdmOGI3NTJmMDcwZWFlZDljZWZkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> Notable Projects
 
 <div align="center">
   <table>
@@ -121,50 +121,50 @@
       <td align="center" width="50%">
         <h3>🧠 Disease-Medicine Prediction</h3>
         <p>Disease prediction & medicine salt analysis system using machine learning algorithms</p>
-        <img src="https://media.giphy.com/media/YReHfiJCT0UQHbYZdl/giphy.gif" width="200" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyODllMzVmNmI0MzQwODhkNTc4NmI0M2UyYTYxOTM3Njk0ZmE4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cei9gnXYQn0rFS/giphy.gif" width="200" />
       </td>
       <td align="center" width="50%">
         <h3>💬 Blockchain Chat App</h3>
         <p>Fully functional chat application with integrated blockchain and payment options (FIAT & Cryptocurrencies)</p>
-        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlOGU1MzkxMjk1N2NiZWMyNjZkZTEyM2E0MTMxYjVmNDNhZDZhOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/DhstvI3zZ598Nb1rFf/giphy.gif" width="150" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <h3>🤖 Custom AI Chatbots</h3>
         <p>Various chatbots including API-based or custom bots for fields like edtech, healthtech, etc.</p>
-        <img src="https://media.giphy.com/media/Z9cvoufMGXdC8HtxtL/giphy.gif" width="150" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE1YTQyYTFjNDVkNTY3OGFiYzgyYzc0NTNkOWVhMjFjM2E2MjYxZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="150" />
       </td>
       <td align="center">
         <h3>🧪 Sentiment Analysis</h3>
         <p>Sentiment analysis using BERT model (currently learning Diffusion Models)</p>
-        <img src="https://media.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif" width="150" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY2YjI3MDQ1OTAxZWM0MGJmZTZjYzYxNzEzMDcwOGQ5MzU1ZmY5ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fwbZnTftCXVocKzfxR/giphy.gif" width="150" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Matrix-style divider -->
+<!-- Retro-style divider -->
 <div align="center">
-  <pre style="color:#00FF00;font-family:'Courier New'">01010011 01110100 01100001 01110100 01110011</pre>
+  <pre style="color:#00FFFF;font-family:'Press Start 2P'">====== PLAYER STATS ======</pre>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YyZmQ4MTI5ODI1ZWQwNGVkNDEyM2EwNjNjMzY0ZDMwNzllNjZlMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniks18&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniks18&langs_count=6&layout=compact&theme=chartreuse-dark&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniks18&theme=chartreuse-dark&hide_border=true" height="180" />
-</div>
-
-<!-- Matrix-style footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=ACCESS%20GRANTED&fontSize=24&fontColor=000000&animation=fadeIn"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniks18&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniks18&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" height="180" />
 </div>
 
 <div align="center">
-  <b>🔄 Always evolving. Never static. 🔄</b>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniks18&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF" height="180" />
+</div>
+
+<!-- Retro-style footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&text=GAME%20SAVED&fontSize=24&fontColor=000000&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <b>⬆️ INSERT COIN TO CONTINUE ⬆️</b>
 </div>
