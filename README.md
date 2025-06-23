@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpiem01Y25lb2lkYWNtdG9iMWpqajhoZnVmcHJsMWlvcWtmYXRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0XitWq1aUB0qJ1Y8Oh/giphy.gif" width="900" />
 </div>
 
 ---
@@ -255,5 +255,5 @@ interface QuantumBeing {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR0OTkxaGxndzRvMGFtM2w4Y2lxZWp4NXNxMGoyZGM2azFwMzJydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIBxsR48CVf2qXe/giphy.gif" width="900" />
 </div>
