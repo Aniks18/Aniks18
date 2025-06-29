@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
 </div>
 
 ---
@@ -240,14 +240,14 @@ Technical Innovation:
 ## <div align="center">🌌 QUANTUM PROJECT SHOWCASE 🌌</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </div>
 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" />
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60" />
     <h3>🧠 **MEDICAL AI CONSCIOUSNESS**</h3>
   </div>
   
@@ -261,7 +261,7 @@ Technical Innovation:
 </td>
 <td align="center" width="50%">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-45cb-b001-c9c1942bf4b9.gif" width="80" />
+    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60" />
     <h3>⛓️ **BLOCKCHAIN NEXUS**</h3>
   </div>
   
@@ -277,7 +277,7 @@ Technical Innovation:
 <tr>
 <td align="center">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f9a5.gif" width="80" />
+    <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="60" />
     <h3>🤖 **AI CONSCIOUSNESS COLLECTIVE**</h3>
   </div>
   
@@ -291,7 +291,7 @@ Technical Innovation:
 </td>
 <td align="center">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceeb7-de36-4b8b-a8c5-11c6e40b9e1a.gif" width="80" />
+    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" />
     <h3>🔮 **EMOTION QUANTUM DECODER**</h3>
   </div>
   
@@ -311,7 +311,7 @@ Technical Innovation:
 ## <div align="center">📊 NEURAL ANALYTICS DASHBOARD 📊</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </div>
 
 <div align="center">
@@ -338,7 +338,7 @@ Technical Innovation:
 ## <div align="center">🌐 QUANTUM COMMUNICATION CHANNELS 🌐</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-c50ee456-39c8-4f9d-8aae-f0e1fa1b7b9e.gif" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
 </div>
 
 <div align="center">
