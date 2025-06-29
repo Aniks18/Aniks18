@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=800&color=FF006E&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=%E2%9A%A1+NEURAL+ARCHITECT+%26+AI+ENGINEER+%E2%9A%A1;%F0%9F%A7%AC+QUANTUM+CODE+SCULPTOR+%F0%9F%A7%AC;%F0%9F%94%AE+FULL-STACK+REALITY+WEAVER+%F0%9F%94%AE;%F0%9F%9A%80+VP+OF+DIGITAL+INNOVATION+%40+DNS+%F0%9F%9A%80;%F0%9F%8C%8C+CSE+FINAL+YEAR+%7C+SRM+NEXUS+%F0%9F%8C%8C" alt="Dynamic Titles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=800&color=FF006E&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=%E2%9A%A1+NEURAL+ARCHITECT+%26+AI+ENGINEER+%E2%9A%A1;%F0%9F%A7%AC+ +CODE+SCULPTOR+%F0%9F%A7%AC;%F0%9F%94%AE+FULL-STACK+REALITY+WEAVER+%F0%9F%94%AE;%F0%9F%9A%80+VP+OF+DIGITAL+INNOVATION+%40+DNS+%F0%9F%9A%80;%F0%9F%8C%8C+CSE+FINAL+YEAR+%7C+SRM+NEXUS+%F0%9F%8C%8C" alt="Dynamic Titles" />
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@ interface Developer {
   expertise: {
     core: ["AI & Machine Learning", "Full Stack Development"],
     specialized: ["Blockchain Architecture", "Neural Networks"],
-    emerging: ["Quantum Computing", "Edge AI"]
+    emerging: ["  Computing", "Edge AI"]
   };
   
   superpowers: {
@@ -66,7 +66,7 @@ interface Developer {
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Aniks18&style=for-the-badge&color=blueviolet&label=NEURAL+CONNECTIONS&labelColor=000000" />
   <br/>
-  <img src="https://img.shields.io/badge/STATUS-QUANTUM_ONLINE-00ff41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS- *_ONLINE-00ff41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000" />
   <br/>
   <img src="https://img.shields.io/badge/MODE-INNOVATION_ACTIVE-ff006e?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
 </td>
@@ -75,7 +75,7 @@ interface Developer {
 
 ---
 
-## <div align="center">⚡ QUANTUM TECH ARSENAL ⚡</div>
+## <div align="center">⚡  * TECH ARSENAL ⚡</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -237,7 +237,7 @@ Technical Innovation:
 
 ---
 
-## <div align="center">🌌 QUANTUM PROJECT SHOWCASE 🌌</div>
+## <div align="center">🌌  * PROJECT SHOWCASE 🌌</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
@@ -257,7 +257,7 @@ Technical Innovation:
   
   `Tech Stack: Python • TensorFlow • FastAPI • React`
   
-  <img src="https://img.shields.io/badge/STATUS-QUANTUM_ACTIVE-00ff41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS- *_ACTIVE-00ff41?style=for-the-badge&labelColor=000000" />
 </td>
 <td align="center" width="50%">
   <div align="center">
@@ -292,7 +292,7 @@ Technical Innovation:
 <td align="center">
   <div align="center">
     <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" />
-    <h3>🔮 **EMOTION QUANTUM DECODER**</h3>
+    <h3>🔮 **EMOTION  * DECODER**</h3>
   </div>
   
   **BERT Sentiment Neural Architecture**
@@ -324,7 +324,7 @@ Technical Innovation:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniks18&custom_title=Quantum%20Code%20Synthesis%20Timeline&bg_color=0D1117&color=ff006e&line=8338ec&point=3a86ff&area=true&hide_border=true&area_color=06ffa5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniks18&custom_title= *%20Code%20Synthesis%20Timeline&bg_color=0D1117&color=ff006e&line=8338ec&point=3a86ff&area=true&hide_border=true&area_color=06ffa5" />
 </div>
 
 ### <div align="center">⚡ **CODE METRICS** ⚡</div>
@@ -335,7 +335,7 @@ Technical Innovation:
 
 ---
 
-## <div align="center">🌐 QUANTUM COMMUNICATION CHANNELS 🌐</div>
+## <div align="center">🌐  * COMMUNICATION CHANNELS 🌐</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
@@ -367,12 +367,12 @@ Technical Innovation:
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/AniketQuantum" target="_blank">
+        <a href="https://twitter.com/Aniket *" target="_blank">
           <img src="https://img.shields.io/badge/🐦_TWITTER-Follow-ffbe0b?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
         </a>
       </td>
       <td align="center">
-        <a href="https://discord.gg/quantum-dev" target="_blank">
+        <a href="https://discord.gg/ *-dev" target="_blank">
           <img src="https://img.shields.io/badge/💬_DISCORD-Join-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
         </a>
       </td>
@@ -391,11 +391,11 @@ Technical Innovation:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer&text=QUANTUM%20STATE%20PRESERVED&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer&text= *%20STATE%20PRESERVED&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=900&lines=%E2%9A%A1+NEURAL+PATHWAYS+SECURED+%E2%9A%A1;%F0%9F%8C%8C+CONSCIOUSNESS+ARCHIVED+%F0%9F%8C%8C;%F0%9F%94%AE+QUANTUM+INTERFACE+STANDBY+%F0%9F%94%AE;%F0%9F%9A%80+READY+FOR+NEXT+MISSION+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=900&lines=%E2%9A%A1+NEURAL+PATHWAYS+SECURED+%E2%9A%A1;%F0%9F%8C%8C+CONSCIOUSNESS+ARCHIVED+%F0%9F%8C%8C;%F0%9F%94%AE+ *+INTERFACE+STANDBY+%F0%9F%94%AE;%F0%9F%9A%80+READY+FOR+NEXT+MISSION+%F0%9F%9A%80" />
 </div>
 
 <div align="center">
