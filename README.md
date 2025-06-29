@@ -1,4 +1,4 @@
-# <div align="center">🌌 QUANTUM CONSCIOUSNESS INTERFACE 3.0 🌌</div>
+# <div align="center">🌌  CONSCIOUSNESS INTERFACE  🌌</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ANIKET%20KUMAR&fontSize=50&color=0:ff006e,25:8338ec,50:3a86ff,75:06ffa5,100:ffbe0b&fontColor=ffffff&stroke=ffffff&strokeWidth=3&animation=twinkling" />
@@ -25,7 +25,7 @@
 <td width="55%" valign="top">
 
 ```typescript
-interface QuantumDeveloper {
+interface Developer {
   readonly identity: "Aniket Kumar";
   readonly classification: "Final Year CSE | Neural Engineer";
   readonly designation: "Vice President @ DNS Cybernetics";
@@ -34,8 +34,8 @@ interface QuantumDeveloper {
   readonly frequency: "ak7525@srmist.edu.in";
   
   currentMissions: [
-    "🎯 SRM VDP Quantum Assessment Platform",
-    "🧠 CSI Chennai Neural Exam Interface",
+    "🎯 SRM VDP  Assessment Platform",
+    "🧠 CSI Chennai Exam Interface",
     "🚀 AI-Powered Medical Diagnostics System",
     "⚡ Blockchain Communication Nexus"
   ];
